@@ -1,0 +1,9 @@
+winrt-runtime>=3.0
+winrt-Windows.Devices.Bluetooth>=3.0
+winrt-Windows.Devices.Bluetooth.Rfcomm>=3.0
+winrt-Windows.Devices.Enumeration>=3.0
+winrt-Windows.Foundation>=3.0
+winrt-Windows.Foundation.Collections>=3.0
+winrt-Windows.Networking>=3.0
+winrt-Windows.Networking.Sockets>=3.0
+winrt-Windows.Storage.Streams>=3.0
